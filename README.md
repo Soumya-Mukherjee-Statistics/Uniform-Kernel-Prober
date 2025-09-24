@@ -12,7 +12,7 @@
 
 * The two sets of experiments are separated out in terms of code into two folders - imagenet_experiments and mnist_experiments.
 
-* Remaining files at the outermost level are LaTeX/PDF files corresponding to the ICML paper. The paper is provided in PDF format as icml.pdf and in tex format as icml.tex . 
+* Remaining files at the outermost level are LaTeX/PDF files corresponding to the ICLR paper. The paper is provided in PDF format as iclr.pdf and in tex format as iclr.tex . 
 
 ## MNIST Experiments (`mnist_experiments/`)
 * Distances between fully-connected ReLU networks of varying widths and depths are saved in `distances/widthdepth/`.
